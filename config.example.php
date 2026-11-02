@@ -1,4 +1,3 @@
-
 <?php
 return [
     'host' => 'localhost',
