@@ -79,6 +79,19 @@ The purpose of this project is to demonstrate PHP database connectivity, SQL ope
 
 The application includes a responsive design, automatic review statistics, a recent reviews feed, and reusable PHP components.
 
+### MySQL Database Records
+
+The following screenshot demonstrates that movie reviews
+submitted through the PHP form are successfully stored
+in the MySQL database.
+
+![MySQL Database Records](screenshots/homepage.png)
+
+![MySQL Database Records](screenshots/database.png)
+
+
+
+
 ## Course Information
 
 **Course:** CIS 344 – Database Systems
