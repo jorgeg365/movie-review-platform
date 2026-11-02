@@ -79,15 +79,24 @@ The purpose of this project is to demonstrate PHP database connectivity, SQL ope
 
 The application includes a responsive design, automatic review statistics, a recent reviews feed, and reusable PHP components.
 
+
+## Application Screenshots
+
+### Movie Review Platform Homepage
+
+The homepage displays the movie review submission form,
+total reviews, average rating, and recent movie reviews.
+
+![Movie Review Platform Homepage](screenshots/homepage.png)
+
 ### MySQL Database Records
 
 The following screenshot demonstrates that movie reviews
-submitted through the PHP form are successfully stored
+submitted through the PHP form are successfully saved
 in the MySQL database.
 
-![MySQL Database Records](screenshots/homepage.png)
-
 ![MySQL Database Records](screenshots/database.png)
+
 
 
 
