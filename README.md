@@ -14,7 +14,7 @@ The purpose of this project is to demonstrate PHP database connectivity, SQL ope
 A detailed report explaining the PHP platform, MySQL database
 integration, form processing, unique features, and setup instructions.
 
-[View Project Report (PDF)](docs/Movie_Review_Platform_Report.pdf)
+[View Project Report (PDF)](docs/Movie_Review_Platform.pdf)
 
 
 ## Technologies Used
