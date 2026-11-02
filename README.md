@@ -8,6 +8,15 @@ The application allows users to submit movie reviews, rate movies, and view revi
 
 The purpose of this project is to demonstrate PHP database connectivity, SQL operations, HTML form processing, and secure storage of user-submitted data.
 
+
+## Project Report
+
+A detailed report explaining the PHP platform, MySQL database
+integration, form processing, unique features, and setup instructions.
+
+[View Project Report (PDF)](docs/Movie_Review_Platform_Report.pdf)
+
+
 ## Technologies Used
 
 - PHP
